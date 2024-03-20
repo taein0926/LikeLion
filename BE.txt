@@ -1,4 +1,5 @@
 - Python
+- Database
 - Django
-- React
+- Restful api
 
